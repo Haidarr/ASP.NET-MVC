@@ -3,7 +3,7 @@ Single-Page Application (SPA) improve user experience by offering rich UI intera
 
 **The main purpose of this application is to show the integration of Vue Router with Vuetify and how they are helpful to build any application.**
 
-This is a simple SPA written in Vue.js with the help of Vuetify and Vue Router.
+This is a simple SPA written in Vue.js with the help of Vuetify and Vue Router. See the [Live Demo](https://haidarjafari.com/users)
 
 - Vue.js is the progressive JavaScript framework.
 - Vuetify is a Material Design component framework for Vue.js.
