@@ -1,0 +1,10 @@
+.drawer-spacing {
+    width: 256px;
+}
+.v-datatable .d-flex>*, .v-datatable .d-inline-flex>* {
+    flex: 0 0 auto!important;
+}
+.flex-align-center {
+    align-items: center;
+}
+
